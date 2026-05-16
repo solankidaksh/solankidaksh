@@ -15,7 +15,7 @@
 ## Who I am
 
 I'm an AI/ML engineer who builds end-to-end machine learning systems — from messy raw data to deployed, working models. I care about the full pipeline: not just getting a good accuracy score, but making something that actually runs, scales, and makes sense to the person using it.
-
+![snake gif](https://raw.githubusercontent.com/solankidaksh/solankidaksh/output/github-contribution-grid-snake.svg)
 I've worked across healthcare, computer vision, and predictive analytics. When I'm not training models, I'm probably reading papers, breaking things in a Jupyter notebook, or figuring out why a model that worked perfectly in dev is falling apart in production.
 
 Currently available for **remote roles** and **freelance ML projects**.
